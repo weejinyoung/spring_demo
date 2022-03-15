@@ -1,2 +1,4 @@
-package hellomyspring.demo.scan.filter;public class BeanA {
+package hellomyspring.demo.scan.filter;
+
+public class BeanA {
 }

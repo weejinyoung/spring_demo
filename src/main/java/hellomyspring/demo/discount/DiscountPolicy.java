@@ -2,6 +2,7 @@ package hellomyspring.demo.discount;
 
 import hellomyspring.demo.member.Member;
 
+
 public interface DiscountPolicy {
 
     // return 할인대상금액

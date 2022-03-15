@@ -2,6 +2,7 @@ package hellomyspring.demo.discount;
 
 import hellomyspring.demo.member.Grade;
 import hellomyspring.demo.member.Member;
+import org.springframework.stereotype.Component;
 
 public class FixDiscountPolicy implements DiscountPolicy {
 
